@@ -4,7 +4,15 @@ background-color: lavender;
 }
 
 .theMessage{
+
   background-color: orchid;
   height: 5em;
   width: 10em;
+}
+
+.messageThree{
+  background-color: aliceblue;
+  height: 5em;
+  width: 10em;
+
 }
