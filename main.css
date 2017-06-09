@@ -9,10 +9,15 @@ background-color: lavender;
   height: 5em;
   width: 10em;
 }
+<<<<<<< HEAD
 
 .messageThree{
   background-color: aliceblue;
   height: 5em;
   width: 10em;
 
+=======
+.messageTwo{
+        background-color: slategray;
+>>>>>>> 178882b5bbd5c6daa74efe30025d7ef595f7f822
 }
