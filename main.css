@@ -2,3 +2,9 @@ body{
 
 background-color: lavender;
 }
+
+.theMessage{
+  background-color: orchid;
+  height: 5em;
+  width: 10em;
+}
