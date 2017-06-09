@@ -1,5 +1,4 @@
 body{
-
 background-color: lavender;
 }
 
@@ -10,7 +9,6 @@ background-color: lavender;
   width: 10em;
 }
 
-
 .messageThree{
   background-color: aliceblue;
   height: 5em;
@@ -19,4 +17,6 @@ background-color: lavender;
 
 .messageTwo{
         background-color: slategray;
+        height: 5em;
+        width: 10em;
 }
